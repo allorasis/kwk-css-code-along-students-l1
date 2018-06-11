@@ -6,6 +6,5 @@ h3 {
   font-size: 300%;
 }
 div {
-  border-width: 20px;
-  border-color: blue;
+  border-style: dashed;
 }
