@@ -6,5 +6,6 @@ h3 {
   font-size: 300%;
 }
 div {
-  bordexr: 20px;
+  border: 20px;
+  border-color: blue;
 }
