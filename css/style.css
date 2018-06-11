@@ -2,6 +2,7 @@
 body {
   background-color: red; 
   color: green;
+  text-shadow:10px;
 }
 h3 {
   font-size: 300%;
