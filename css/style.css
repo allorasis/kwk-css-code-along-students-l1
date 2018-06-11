@@ -2,7 +2,8 @@
 body {
   background-color: red; 
   color: green;
-  text-shadow:2px 2px #ff0000;
+  text-shadow:2px 2px 
+purple;
 }
 h3 {
   font-size: 300%;
